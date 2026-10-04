@@ -1,0 +1,6 @@
+{
+  "name": "QuickBasket - 10-Minute Grocery Delivery",
+  "description": "Blinkit/Zepto-style instant grocery delivery app with categorized products, live rider map tracking, cart management, simulated payments, order history, and dark store inventory controls.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
